@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "controls")
+set(controls_MAINTAINER "peter <peter@todo.todo>")
+set(controls_DEPRECATED "")
+set(controls_VERSION "0.0.0")
+set(controls_BUILD_DEPENDS )
+set(controls_RUN_DEPENDS )
+set(controls_BUILDTOOL_DEPENDS "catkin")

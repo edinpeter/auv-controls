@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peter/control-test/src/controls/src/master.cpp
+ros/ros.h
+/home/peter/control-test/src/controls/src/ros/ros.h
+std_msgs/String.h
+/home/peter/control-test/src/controls/src/std_msgs/String.h
+std_msgs/Int32.h
+/home/peter/control-test/src/controls/src/std_msgs/Int32.h
+sstream
+-
+iostream
+-
+
